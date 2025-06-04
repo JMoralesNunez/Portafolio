@@ -17,6 +17,7 @@ nav {
     justify-items: auto;
     flex-direction: row;
     color: rgb(238, 238, 238);
+    margin-left: 20px;
 }
 
 nav ul{
@@ -170,6 +171,7 @@ footer ul li a{
 @media (max-width: 880px){
     nav{
         justify-content: center;
+        margin-left: 0px;
     }
     main h1{
         font-size: 3rem;
